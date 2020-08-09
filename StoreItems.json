@@ -9,7 +9,7 @@
 	{
 		"abr": "adrelaytower",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ARKPPP_ADRelayTower"
 	},
 	{
@@ -213,7 +213,7 @@
 	{
 		"abr": "advancedwpnemitter",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ARKPPP_WirelessPowerEmitterAdvanced"
 	},
 	{
@@ -315,7 +315,7 @@
 	{
 		"abr": "airconditioningunit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AirConditioningUnit"
 	},
 	{
@@ -369,19 +369,19 @@
 	{
 		"abr": "ancientconcretebarrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientConcreteBarrier"
 	},
 	{
 		"abr": "ancientcryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientCryptosleepCasket"
 	},
 	{
 		"abr": "ancientlamppost",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientLamppost"
 	},
 	{
@@ -771,7 +771,7 @@
 	{
 		"abr": "autocannonturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Autocannon"
 	},
 	{
@@ -837,7 +837,7 @@
 	{
 		"abr": "ballista",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_Ballista"
 	},
 	{
@@ -849,7 +849,7 @@
 	{
 		"abr": "barbedwire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_BarbedWire"
 	},
 	{
@@ -861,13 +861,13 @@
 	{
 		"abr": "barricade",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Barricade"
 	},
 	{
 		"abr": "barrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Barrier"
 	},
 	{
@@ -1401,7 +1401,7 @@
 	{
 		"abr": "bulletshield",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldGeneratorBullets"
 	},
 	{
@@ -1467,7 +1467,7 @@
 	{
 		"abr": "campfire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Campfire"
 	},
 	{
@@ -1551,13 +1551,13 @@
 	{
 		"abr": "catapult",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_Catapult"
 	},
 	{
 		"abr": "cavalryspikes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_CavalrySpikes"
 	},
 	{
@@ -1611,7 +1611,7 @@
 	{
 		"abr": "chargecomplex",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_ChargeComplex"
 	},
 	{
@@ -1641,7 +1641,7 @@
 	{
 		"abr": "chargerailgun",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_ChargeRailgunTurret"
 	},
 	{
@@ -1731,7 +1731,7 @@
 	{
 		"abr": "chemfuelpoweredgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
@@ -1755,7 +1755,7 @@
 	{
 		"abr": "chemfuelstorage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "FuelStorage"
 	},
 	{
@@ -1935,13 +1935,13 @@
 	{
 		"abr": "coldwaterpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "waterPipe"
 	},
 	{
 		"abr": "coldwatervalve",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "waterValve"
 	},
 	{
@@ -1959,7 +1959,7 @@
 	{
 		"abr": "column",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Column"
 	},
 	{
@@ -1977,7 +1977,7 @@
 	{
 		"abr": "commsconsole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CommsConsole"
 	},
 	{
@@ -2001,7 +2001,7 @@
 	{
 		"abr": "consoleloom",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "controllerLoom"
 	},
 	{
@@ -2013,25 +2013,25 @@
 	{
 		"abr": "coolantpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "coolingPipe"
 	},
 	{
 		"abr": "coolantvalve",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "coolantValve"
 	},
 	{
 		"abr": "cooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "coolingtower",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoolingTower"
 	},
 	{
@@ -2067,7 +2067,7 @@
 	{
 		"abr": "count-downactivator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ActivatorCountdown"
 	},
 	{
@@ -2139,7 +2139,7 @@
 	{
 		"abr": "crudecracker",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CrudeCracker"
 	},
 	{
@@ -2175,7 +2175,7 @@
 	{
 		"abr": "crudeoilstorage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "OilStorage"
 	},
 	{
@@ -2187,7 +2187,7 @@
 	{
 		"abr": "cryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CryptosleepCasket"
 	},
 	{
@@ -2265,13 +2265,13 @@
 	{
 		"abr": "deepoilwell",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DeepOilWell"
 	},
 	{
 		"abr": "deepoilwellhead",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DeepOilWellHead"
 	},
 	{
@@ -2295,7 +2295,7 @@
 	{
 		"abr": "deployablebarrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_DeployableBarrier"
 	},
 	{
@@ -2331,7 +2331,7 @@
 	{
 		"abr": "devastatormortar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_DevastatorMortarBomb"
 	},
 	{
@@ -2397,13 +2397,13 @@
 	{
 		"abr": "door",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Door"
 	},
 	{
 		"abr": "doubleautocannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_AutocannonDouble"
 	},
 	{
@@ -2475,7 +2475,7 @@
 	{
 		"abr": "dublastdoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DU_Blastdoor"
 	},
 	{
@@ -2589,7 +2589,7 @@
 	{
 		"abr": "electriccrematorium",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ElectricCrematorium"
 	},
 	{
@@ -2667,13 +2667,13 @@
 	{
 		"abr": "embrasure",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ED_Embrasure"
 	},
 	{
 		"abr": "empcannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_EMPTurret"
 	},
 	{
@@ -3171,13 +3171,13 @@
 	{
 		"abr": "glitternetcable",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GNGlitterNetCable"
 	},
 	{
 		"abr": "glitternetcable(hidden)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GNGlitterNetCableHidden"
 	},
 	{
@@ -3261,7 +3261,7 @@
 	{
 		"abr": "grandstele",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SteleGrand"
 	},
 	{
@@ -3279,7 +3279,7 @@
 	{
 		"abr": "grave",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Grave"
 	},
 	{
@@ -3339,7 +3339,7 @@
 	{
 		"abr": "ground-penetratingscanner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
@@ -3525,7 +3525,7 @@
 	{
 		"abr": "hel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCHEL"
 	},
 	{
@@ -3561,13 +3561,13 @@
 	{
 		"abr": "highvoltage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "HighVoltage"
 	},
 	{
 		"abr": "highvoltagetransformer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Transformer"
 	},
 	{
@@ -3591,7 +3591,7 @@
 	{
 		"abr": "hmgcomplex",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_HMGComplex"
 	},
 	{
@@ -3621,7 +3621,7 @@
 	{
 		"abr": "hopper",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Hopper"
 	},
 	{
@@ -3705,7 +3705,7 @@
 	{
 		"abr": "hydroponicsbasin",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "HydroponicsBasin"
 	},
 	{
@@ -3933,7 +3933,7 @@
 	{
 		"abr": "infestationbait",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Infestation_Bait"
 	},
 	{
@@ -4143,7 +4143,7 @@
 	{
 		"abr": "largechemfuelpowerplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "LargeFuelPowerplant"
 	},
 	{
@@ -4155,13 +4155,13 @@
 	{
 		"abr": "largeshieldgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
 		"abr": "largestele",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SteleLarge"
 	},
 	{
@@ -4203,7 +4203,7 @@
 	{
 		"abr": "liberator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MissileSilo"
 	},
 	{
@@ -4305,7 +4305,7 @@
 	{
 		"abr": "long-rangemineralscanner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
@@ -4341,7 +4341,7 @@
 	{
 		"abr": "lwpnemitter",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ARKPPP_LocalWirelessPowerEmitter"
 	},
 	{
@@ -4455,7 +4455,7 @@
 	{
 		"abr": "mannedvulcancannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VulcanCannonManned"
 	},
 	{
@@ -4467,7 +4467,7 @@
 	{
 		"abr": "marauder",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCMarauder"
 	},
 	{
@@ -4533,19 +4533,19 @@
 	{
 		"abr": "mechassembler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MechAssembler"
 	},
 	{
 		"abr": "mechcapsule",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MechCapsule"
 	},
 	{
 		"abr": "mechdropbeacon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MechDropBeacon"
 	},
 	{
@@ -4731,7 +4731,7 @@
 	{
 		"abr": "moisturepump",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MoisturePump"
 	},
 	{
@@ -4809,7 +4809,7 @@
 	{
 		"abr": "mortarshield",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldGeneratorMortar"
 	},
 	{
@@ -5169,7 +5169,7 @@
 	{
 		"abr": "nutrientpastedispenser",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
@@ -5193,7 +5193,7 @@
 	{
 		"abr": "obelisk",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCObelisk"
 	},
 	{
@@ -5217,19 +5217,19 @@
 	{
 		"abr": "oilpipeline",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "OilPipeline"
 	},
 	{
 		"abr": "oilwell",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "OilWell"
 	},
 	{
 		"abr": "oilwellhead",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "OilWellHead"
 	},
 	{
@@ -5373,7 +5373,7 @@
 	{
 		"abr": "passivecooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PassiveCooler"
 	},
 	{
@@ -5559,13 +5559,13 @@
 	{
 		"abr": "plutoniumprocessor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PlutoniumProcessor"
 	},
 	{
 		"abr": "podlauncher",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PodLauncher"
 	},
 	{
@@ -5637,19 +5637,19 @@
 	{
 		"abr": "powerconduit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "powerswitch",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerSwitch"
 	},
 	{
 		"abr": "ppc",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPC"
 	},
 	{
@@ -5667,7 +5667,7 @@
 	{
 		"abr": "proximityactivator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ActivatorProximity"
 	},
 	{
@@ -5889,7 +5889,7 @@
 	{
 		"abr": "punisher",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCRailgun"
 	},
 	{
@@ -5955,7 +5955,7 @@
 	{
 		"abr": "radiationdetector",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "RadiationDetector"
 	},
 	{
@@ -5973,7 +5973,7 @@
 	{
 		"abr": "radiator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoolingRadiator"
 	},
 	{
@@ -6045,25 +6045,25 @@
 	{
 		"abr": "reactorconsole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorControl"
 	},
 	{
 		"abr": "reactortypea",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorCoreA"
 	},
 	{
 		"abr": "reactortypev",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorCoreC"
 	},
 	{
 		"abr": "reactortypex",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorCoreB"
 	},
 	{
@@ -6129,7 +6129,7 @@
 	{
 		"abr": "reinforcedduwall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "RadiationShielding"
 	},
 	{
@@ -6141,13 +6141,13 @@
 	{
 		"abr": "researchcounter",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
 		"abr": "researchreactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ResearchReactor"
 	},
 	{
@@ -6195,13 +6195,13 @@
 	{
 		"abr": "rimatomicsmachiningtable",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TableRimatomicsMachining"
 	},
 	{
 		"abr": "rimatomicsresearchbench",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "NuclearResearchBench"
 	},
 	{
@@ -6243,7 +6243,7 @@
 	{
 		"abr": "rocketturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_TriRocket"
 	},
 	{
@@ -6387,7 +6387,7 @@
 	{
 		"abr": "sacs",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCWeaponsConsole"
 	},
 	{
@@ -6423,7 +6423,7 @@
 	{
 		"abr": "sandbags",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sandbags"
 	},
 	{
@@ -6435,31 +6435,31 @@
 	{
 		"abr": "sarcophagus",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sarcophagus"
 	},
 	{
 		"abr": "sarcophagustypea",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorSacrophagus"
 	},
 	{
 		"abr": "sarcophagustypev",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorSacrophagusC"
 	},
 	{
 		"abr": "sarcophagustypex",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorSacrophagusB"
 	},
 	{
 		"abr": "satellitetargetingsystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ARKPPP_PowerBeamSatelliteTargetingSystem"
 	},
 	{
@@ -6501,7 +6501,7 @@
 	{
 		"abr": "sensorcluster",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_SensorCluster"
 	},
 	{
@@ -6567,19 +6567,19 @@
 	{
 		"abr": "shipcomputercore",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine"
 	},
 	{
@@ -6591,13 +6591,13 @@
 	{
 		"abr": "shipreactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipstructuralbeam",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Beam"
 	},
 	{
@@ -6783,7 +6783,7 @@
 	{
 		"abr": "skycloudcore",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ATPP_SkyCloudCore"
 	},
 	{
@@ -6903,7 +6903,7 @@
 	{
 		"abr": "solargenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarGenerator"
 	},
 	{
@@ -6915,7 +6915,7 @@
 	{
 		"abr": "sparkgrid",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SparkGrid"
 	},
 	{
@@ -7053,13 +7053,13 @@
 	{
 		"abr": "steampipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "steamPipe"
 	},
 	{
 		"abr": "steamvalve",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "steamValve"
 	},
 	{
@@ -7095,7 +7095,7 @@
 	{
 		"abr": "stonecampfire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Stone_Campfire"
 	},
 	{
@@ -7125,7 +7125,7 @@
 	{
 		"abr": "storagepool",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "storagePool"
 	},
 	{
@@ -7353,7 +7353,7 @@
 	{
 		"abr": "tacs",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "RadarDish"
 	},
 	{
@@ -7497,7 +7497,7 @@
 	{
 		"abr": "thorturbine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turbine"
 	},
 	{
@@ -7557,7 +7557,7 @@
 	{
 		"abr": "torchlamp",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TorchLamp"
 	},
 	{
@@ -7599,7 +7599,7 @@
 	{
 		"abr": "transportpod",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TransportPod"
 	},
 	{
@@ -7611,7 +7611,7 @@
 	{
 		"abr": "trench",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Trench"
 	},
 	{
@@ -7755,7 +7755,7 @@
 	{
 		"abr": "uraniumslugturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
 	{
@@ -7791,7 +7791,7 @@
 	{
 		"abr": "vent",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Vent"
 	},
 	{
@@ -7809,7 +7809,7 @@
 	{
 		"abr": "vulcancannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VulcanCannon"
 	},
 	{
@@ -7941,19 +7941,19 @@
 	{
 		"abr": "watercooling",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoolingWater"
 	},
 	{
 		"abr": "watermillgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -7965,7 +7965,7 @@
 	{
 		"abr": "weaponsresearchbench",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WeaponsBench"
 	},
 	{
@@ -8019,7 +8019,7 @@
 	{
 		"abr": "windturbine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindTurbine"
 	},
 	{
@@ -8055,7 +8055,7 @@
 	{
 		"abr": "wood-firedgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WoodFiredGenerator"
 	},
 	{
@@ -8067,13 +8067,13 @@
 	{
 		"abr": "wpnemitter",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ARKPPP_WirelessPowerEmitter"
 	},
 	{
 		"abr": "wpnreceiver",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ARKPPP_WirelessPowerReceptor"
 	},
 	{
@@ -8115,7 +8115,7 @@
 	{
 		"abr": "zeusturbine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BigTurbine"
 	},
 	{
@@ -8313,7 +8313,7 @@
 	{
 		"abr": "hiveshiphackingfacility",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WTH_MechanoidBeacon"
 	},
 	{
@@ -8325,13 +8325,13 @@
 	{
 		"abr": "mechanoidhackingfacility",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WTH_HackingTable"
 	},
 	{
 		"abr": "mechanoidplatform",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WTH_MechanoidPlatform"
 	},
 	{
@@ -9692,7 +9692,7 @@
 	},
 	{
 		"abr": "gigalocust",
-		"price": 1333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_Gigalocust"
 	},
@@ -10124,7 +10124,7 @@
 	},
 	{
 		"abr": "larvae",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_Larvae"
 	},
@@ -11421,2563 +11421,2563 @@
 	{
 		"abr": "advancedrotor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_AdvancedRotor"
 	},
 	{
 		"abr": "advancedsolargenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_AdvancedSolarGenerator"
 	},
 	{
 		"abr": "advancedstoragedevice",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SpacerStorage"
 	},
 	{
 		"abr": "airesearchbench",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AIResearchBench"
 	},
 	{
 		"abr": "alocasia",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Alocasia"
 	},
 	{
 		"abr": "amnioticfluid",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthAmnioticFluid"
 	},
 	{
 		"abr": "anvil",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Anvil"
 	},
 	{
 		"abr": "armorydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordArmory"
 	},
 	{
 		"abr": "arrowcage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ArrowCage"
 	},
 	{
 		"abr": "arrowlongsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalArrowLong"
 	},
 	{
 		"abr": "arrowshortsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalArrowShort"
 	},
 	{
 		"abr": "arrowwidesymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalArrowWide"
 	},
 	{
 		"abr": "artificialecosystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Ecosystem"
 	},
 	{
 		"abr": "battery",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Battery"
 	},
 	{
 		"abr": "binbag",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BinBag"
 	},
 	{
 		"abr": "birchtree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BirchTree"
 	},
 	{
 		"abr": "blackdeliverytruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarDeliveryBlack"
 	},
 	{
 		"abr": "blackfamilycar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarFamilyBlack"
 	},
 	{
 		"abr": "blackgunship",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_AlbatrossBlack"
 	},
 	{
 		"abr": "blackpickuptruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarPickupBlack"
 	},
 	{
 		"abr": "blackskip",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SkipBlack"
 	},
 	{
 		"abr": "blackvintagecar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarVintageBlack"
 	},
 	{
 		"abr": "blockdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordBlock"
 	},
 	{
 		"abr": "blood",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthBlood"
 	},
 	{
 		"abr": "blueairpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "blueAirPipe"
 	},
 	{
 		"abr": "blueairpipehidden",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "blueAirPipeHidden"
 	},
 	{
 		"abr": "bluebarrel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BarrelBlue"
 	},
 	{
 		"abr": "bluecargocontainer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ContainerBlue"
 	},
 	{
 		"abr": "bluedeliverytruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarDeliveryBlue"
 	},
 	{
 		"abr": "bluefamilycar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarFamilyBlue"
 	},
 	{
 		"abr": "bluegunship",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_AlbatrossBlue"
 	},
 	{
 		"abr": "bluepickuptruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarPickupBlue"
 	},
 	{
 		"abr": "blueskip",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SkipBlue"
 	},
 	{
 		"abr": "bluevintagecar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarVintageBlue"
 	},
 	{
 		"abr": "boxdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallBox"
 	},
 	{
 		"abr": "brambles",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Brambles"
 	},
 	{
 		"abr": "brewingbarrel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BrewingBarrel"
 	},
 	{
 		"abr": "brickpile",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BrickPile"
 	},
 	{
 		"abr": "bryolux",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Bryolux"
 	},
 	{
 		"abr": "bugblood",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthBugBlood"
 	},
 	{
 		"abr": "burnedtree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BurnedTree"
 	},
 	{
 		"abr": "bush",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Bush"
 	},
 	{
 		"abr": "csymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolC"
 	},
 	{
 		"abr": "cafeteriadecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordCafeteria"
 	},
 	{
 		"abr": "cageplatform",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CagePlatform"
 	},
 	{
 		"abr": "cargodecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordCargo"
 	},
 	{
 		"abr": "cecropiatree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CecropiaTree"
 	},
 	{
 		"abr": "celldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallCell"
 	},
 	{
 		"abr": "chamberdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordChamber"
 	},
 	{
 		"abr": "chemfuelpuddle",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthChemfuel"
 	},
 	{
 		"abr": "chemfuelpump",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_ChemfuelPump"
 	},
 	{
 		"abr": "chokevine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Chokevine"
 	},
 	{
 		"abr": "cleardecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallClear"
 	},
 	{
 		"abr": "climatedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordClimate"
 	},
 	{
 		"abr": "clivia",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Clivia"
 	},
 	{
 		"abr": "clothessign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconClothes"
 	},
 	{
 		"abr": "coalburner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CoalBurner"
 	},
 	{
 		"abr": "coldsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconCold"
 	},
 	{
 		"abr": "commanddecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordCommand"
 	},
 	{
 		"abr": "concretebags",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ConcreteBags"
 	},
 	{
 		"abr": "cone",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Cone"
 	},
 	{
 		"abr": "controldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordControl"
 	},
 	{
 		"abr": "cooker",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Cooker"
 	},
 	{
 		"abr": "cookingappliances",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CookingAppliances"
 	},
 	{
 		"abr": "cornplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Corn"
 	},
 	{
 		"abr": "corpsebile",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthCorpseBile"
 	},
 	{
 		"abr": "cottonplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Cotton"
 	},
 	{
 		"abr": "cuttingboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CuttingBoard"
 	},
 	{
 		"abr": "cyanairpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "cyanAirPipe"
 	},
 	{
 		"abr": "cyanairpipehidden",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "cyanAirPipeHidden"
 	},
 	{
 		"abr": "cypresstree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CypressTree"
 	},
 	{
 		"abr": "dsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolD"
 	},
 	{
 		"abr": "dangersign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconDanger"
 	},
 	{
 		"abr": "dataconsole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DataConsole"
 	},
 	{
 		"abr": "dataconveyor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DataConveyor"
 	},
 	{
 		"abr": "daylily",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Daylily"
 	},
 	{
 		"abr": "decallinedouble",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalLineDouble"
 	},
 	{
 		"abr": "decallinedoubleinnercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalLineDoubleCornerInner"
 	},
 	{
 		"abr": "decallinedoubleoutercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalLineDoubleCornerOuter"
 	},
 	{
 		"abr": "decallinethin",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalLineThin"
 	},
 	{
 		"abr": "decallinethininnercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalLineThinCornerInner"
 	},
 	{
 		"abr": "decallinethinoutercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalLineThinCornerOuter"
 	},
 	{
 		"abr": "devilstrand",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Devilstrand"
 	},
 	{
 		"abr": "dinnerset",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DinnerSet"
 	},
 	{
 		"abr": "dirt",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthDirt"
 	},
 	{
 		"abr": "displayscreen",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DisplayScreen"
 	},
 	{
 		"abr": "displaytable",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DisplayTable"
 	},
 	{
 		"abr": "dockdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallDock"
 	},
 	{
 		"abr": "dragotree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DragoTree"
 	},
 	{
 		"abr": "esymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolE"
 	},
 	{
 		"abr": "electricalcabinet",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ElectricalCabinet"
 	},
 	{
 		"abr": "emptyarmorstand",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ArmorStandEmpty"
 	},
 	{
 		"abr": "emptybucket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BucketEmpty"
 	},
 	{
 		"abr": "emptyfoodboxes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FoodBox"
 	},
 	{
 		"abr": "emptyweaponrack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WeaponRackEmpty"
 	},
 	{
 		"abr": "engineerdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordEngineer"
 	},
 	{
 		"abr": "exhaust",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Exhaust"
 	},
 	{
 		"abr": "exitsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconExit"
 	},
 	{
 		"abr": "fsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolF"
 	},
 	{
 		"abr": "farmingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordFarming"
 	},
 	{
 		"abr": "firefoam",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthFireFoam"
 	},
 	{
 		"abr": "foodtrolley",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FoodTrolley"
 	},
 	{
 		"abr": "forklift",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarForklift"
 	},
 	{
 		"abr": "freezerdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordFreezer"
 	},
 	{
 		"abr": "fridge",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Fridge"
 	},
 	{
 		"abr": "fridgedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordFridge"
 	},
 	{
 		"abr": "fullarmorstand",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ArmorStandFull"
 	},
 	{
 		"abr": "gsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolG"
 	},
 	{
 		"abr": "gascooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_GasCooler"
 	},
 	{
 		"abr": "gasdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallGas"
 	},
 	{
 		"abr": "gaspipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_GasPipe"
 	},
 	{
 		"abr": "gaspipevalve",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_GasPipeValve"
 	},
 	{
 		"abr": "gasstorageunit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_GasStorageUnit"
 	},
 	{
 		"abr": "gastank",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_GasTank"
 	},
 	{
 		"abr": "gasmasksign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconGasmask"
 	},
 	{
 		"abr": "gearssign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconGears"
 	},
 	{
 		"abr": "generator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Generator"
 	},
 	{
 		"abr": "generatorunit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_GeneratorUnitLarge"
 	},
 	{
 		"abr": "giantrafflesia",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Rafflesia"
 	},
 	{
 		"abr": "glowstool",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Glowstool"
 	},
 	{
 		"abr": "greenbarrel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BarrelGreen"
 	},
 	{
 		"abr": "greencargocontainer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ContainerGreen"
 	},
 	{
 		"abr": "greenfloorsignarrow",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Lighting_GreenFloorLampArrow"
 	},
 	{
 		"abr": "greybarrel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BarrelGrey"
 	},
 	{
 		"abr": "greycargocontainer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ContainerGrey"
 	},
 	{
 		"abr": "gunsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconGun"
 	},
 	{
 		"abr": "hsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolH"
 	},
 	{
 		"abr": "halldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallHall"
 	},
 	{
 		"abr": "hangardecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordHangar"
 	},
 	{
 		"abr": "haygrass",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Haygrass"
 	},
 	{
 		"abr": "healroot",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Healroot"
 	},
 	{
 		"abr": "heatsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconFire"
 	},
 	{
 		"abr": "hedge",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Hedge"
 	},
 	{
 		"abr": "helixiengascrematorium",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_GasCrematorium"
 	},
 	{
 		"abr": "helixiengaspoweredgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_HelixienGenerator"
 	},
 	{
 		"abr": "helixienpump",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_HelixienPump"
 	},
 	{
 		"abr": "hopplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Hops"
 	},
 	{
 		"abr": "hospitaldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordHospital"
 	},
 	{
 		"abr": "hospitalsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconHospital"
 	},
 	{
 		"abr": "isymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolI"
 	},
 	{
 		"abr": "industrialchemfuelpoweredgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "industrialgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_IndustrialGenerator"
 	},
 	{
 		"abr": "industrialhelixiengaspoweredgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_IndustrialHelixienGenerator"
 	},
 	{
 		"abr": "industrialwood-firedgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_IndustrialWoodFiredGenerator"
 	},
 	{
 		"abr": "inputsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Lighting_FloorInput"
 	},
 	{
 		"abr": "jsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolJ"
 	},
 	{
 		"abr": "ksymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolK"
 	},
 	{
 		"abr": "keepdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallKeep"
 	},
 	{
 		"abr": "killdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordKill"
 	},
 	{
 		"abr": "kitchendecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordKitchen"
 	},
 	{
 		"abr": "kitchensink",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_KitchenSink"
 	},
 	{
 		"abr": "kitchensurface",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_KitchenSurface"
 	},
 	{
 		"abr": "kitchensurfaceempty",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_KitchenSurfaceEmpty"
 	},
 	{
 		"abr": "knives",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Knives"
 	},
 	{
 		"abr": "lsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolL"
 	},
 	{
 		"abr": "labdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallLab"
 	},
 	{
 		"abr": "landingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordLanding"
 	},
 	{
 		"abr": "large0symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolZero"
 	},
 	{
 		"abr": "large1symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolOne"
 	},
 	{
 		"abr": "large2symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolTwo"
 	},
 	{
 		"abr": "large3symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolThree"
 	},
 	{
 		"abr": "large4symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolFour"
 	},
 	{
 		"abr": "large5symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolFive"
 	},
 	{
 		"abr": "large6symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolSix"
 	},
 	{
 		"abr": "large7symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolSeven"
 	},
 	{
 		"abr": "large8symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolEight"
 	},
 	{
 		"abr": "large9symbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolNine"
 	},
 	{
 		"abr": "largeasymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolA"
 	},
 	{
 		"abr": "largearmorydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordArmory"
 	},
 	{
 		"abr": "largearrowlongsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalArrowLong"
 	},
 	{
 		"abr": "largearrowshortsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalArrowShort"
 	},
 	{
 		"abr": "largearrowwidesymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalArrowWide"
 	},
 	{
 		"abr": "largebsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolB"
 	},
 	{
 		"abr": "largebarracksdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordBarracks"
 	},
 	{
 		"abr": "largebasedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallBase"
 	},
 	{
 		"abr": "largebaydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallBay"
 	},
 	{
 		"abr": "largeblockdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordBlock"
 	},
 	{
 		"abr": "largeboxdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallBox"
 	},
 	{
 		"abr": "largecsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolC"
 	},
 	{
 		"abr": "largecafeteriadecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordCafeteria"
 	},
 	{
 		"abr": "largecardboardbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CardboardBoxLarge"
 	},
 	{
 		"abr": "largecargodecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordCargo"
 	},
 	{
 		"abr": "largecelldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallCell"
 	},
 	{
 		"abr": "largechamberdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordChamber"
 	},
 	{
 		"abr": "largechemfueltank",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ChemfuelTank"
 	},
 	{
 		"abr": "largecleardecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallClear"
 	},
 	{
 		"abr": "largeclimatedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordClimate"
 	},
 	{
 		"abr": "largecommanddecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordCommand"
 	},
 	{
 		"abr": "largecontroldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordControl"
 	},
 	{
 		"abr": "largedsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolD"
 	},
 	{
 		"abr": "largedecallinedouble",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalLineDouble"
 	},
 	{
 		"abr": "largedecallinedoubleinnercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalLineDoubleCornerInner"
 	},
 	{
 		"abr": "largedecallinedoubleoutercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalLineDoubleCornerOuter"
 	},
 	{
 		"abr": "largedecallinethin",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalLineThin"
 	},
 	{
 		"abr": "largedecallinethininnercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalLineThinCornerInner"
 	},
 	{
 		"abr": "largedecallinethinoutercorner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalLineThinCornerOuter"
 	},
 	{
 		"abr": "largedockdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallDock"
 	},
 	{
 		"abr": "largeesymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolE"
 	},
 	{
 		"abr": "largeengineerdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordEngineer"
 	},
 	{
 		"abr": "largefsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolF"
 	},
 	{
 		"abr": "largefarmingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordFarming"
 	},
 	{
 		"abr": "largefreezerdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordFreezer"
 	},
 	{
 		"abr": "largefridgedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordFridge"
 	},
 	{
 		"abr": "largegsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolG"
 	},
 	{
 		"abr": "largegasdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallGas"
 	},
 	{
 		"abr": "largehsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolH"
 	},
 	{
 		"abr": "largehalldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallHall"
 	},
 	{
 		"abr": "largehangardecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordHangar"
 	},
 	{
 		"abr": "largehaybale",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_HayBaleLarge"
 	},
 	{
 		"abr": "largehospitaldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordHospital"
 	},
 	{
 		"abr": "largeisymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolI"
 	},
 	{
 		"abr": "largejsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolJ"
 	},
 	{
 		"abr": "largeksymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolK"
 	},
 	{
 		"abr": "largekeepdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallKeep"
 	},
 	{
 		"abr": "largekilldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordKill"
 	},
 	{
 		"abr": "largekitchendecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordKitchen"
 	},
 	{
 		"abr": "largelsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolL"
 	},
 	{
 		"abr": "largelabdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallLab"
 	},
 	{
 		"abr": "largelandingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordLanding"
 	},
 	{
 		"abr": "largeliquidtank",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LiquidTank"
 	},
 	{
 		"abr": "largemsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolM"
 	},
 	{
 		"abr": "largemedicaldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordMedical"
 	},
 	{
 		"abr": "largemessdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordMess"
 	},
 	{
 		"abr": "largemorguedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordMorgue"
 	},
 	{
 		"abr": "largemortardecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordMortar"
 	},
 	{
 		"abr": "largensymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolN"
 	},
 	{
 		"abr": "largenatureshrine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "NatureShrine_Large"
 	},
 	{
 		"abr": "largeosymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolO"
 	},
 	{
 		"abr": "largepsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolP"
 	},
 	{
 		"abr": "largepaddecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallPad"
 	},
 	{
 		"abr": "largeplaydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordPlay"
 	},
 	{
 		"abr": "largeprisondecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordPrison"
 	},
 	{
 		"abr": "largersymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolR"
 	},
 	{
 		"abr": "largereactordecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordReactor"
 	},
 	{
 		"abr": "largerecreationdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordRecreation"
 	},
 	{
 		"abr": "largerefinerydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordRefinery"
 	},
 	{
 		"abr": "largerelaxdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordRelax"
 	},
 	{
 		"abr": "largeresearchdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordResearch"
 	},
 	{
 		"abr": "largeroomdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallRoom"
 	},
 	{
 		"abr": "largessymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolS"
 	},
 	{
 		"abr": "largesecuritydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSecurity"
 	},
 	{
 		"abr": "largeshippingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordShipping"
 	},
 	{
 		"abr": "largesleepingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSleeping"
 	},
 	{
 		"abr": "largesmeltingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmelting"
 	},
 	{
 		"abr": "largesteeltank",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelTank"
 	},
 	{
 		"abr": "largestoragedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordStorage"
 	},
 	{
 		"abr": "largetsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolT"
 	},
 	{
 		"abr": "largeusymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolU"
 	},
 	{
 		"abr": "largewsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolW"
 	},
 	{
 		"abr": "largewarningdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordWarning"
 	},
 	{
 		"abr": "largewingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallWing"
 	},
 	{
 		"abr": "largewoodenbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BoxLarge"
 	},
 	{
 		"abr": "largewoodenchest",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenChestLarge"
 	},
 	{
 		"abr": "largewoodenlogs",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenLogsLarge"
 	},
 	{
 		"abr": "largeworkshopdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordWorkshop"
 	},
 	{
 		"abr": "largexsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolX"
 	},
 	{
 		"abr": "largeysymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolY"
 	},
 	{
 		"abr": "largezsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalSymbolZ"
 	},
 	{
 		"abr": "largezonedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LargeDecalWordSmallZone"
 	},
 	{
 		"abr": "leftturnroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailLeft"
 	},
 	{
 		"abr": "lockers",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Lockers"
 	},
 	{
 		"abr": "longcommandconsole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_LongCommandConsole"
 	},
 	{
 		"abr": "longgrass",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_GrassLong"
 	},
 	{
 		"abr": "msymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolM"
 	},
 	{
 		"abr": "machinebits",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthMachineBits"
 	},
 	{
 		"abr": "mapletree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_MapleTree"
 	},
 	{
 		"abr": "medicaldecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordMedical"
 	},
 	{
 		"abr": "mediumhaybale",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_HayBaleMedium"
 	},
 	{
 		"abr": "messdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordMess"
 	},
 	{
 		"abr": "microwave",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Microwave"
 	},
 	{
 		"abr": "mopbucket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_MopBucket"
 	},
 	{
 		"abr": "morguedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordMorgue"
 	},
 	{
 		"abr": "mortardecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordMortar"
 	},
 	{
 		"abr": "nsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolN"
 	},
 	{
 		"abr": "nuclearreactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_NuclearGenerator"
 	},
 	{
 		"abr": "osymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolO"
 	},
 	{
 		"abr": "oaktree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_OakTree"
 	},
 	{
 		"abr": "outputsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Lighting_FloorOutput"
 	},
 	{
 		"abr": "oven",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Oven"
 	},
 	{
 		"abr": "psymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolP"
 	},
 	{
 		"abr": "paddecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallPad"
 	},
 	{
 		"abr": "pallet",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Pallet"
 	},
 	{
 		"abr": "palletwithbluebarrels",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletBarrelBlue"
 	},
 	{
 		"abr": "palletwithcardboardboxes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletCardboard"
 	},
 	{
 		"abr": "palletwithgreenbarrels",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletBarrelGreen"
 	},
 	{
 		"abr": "palletwithgreybarrels",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletBarrelGrey"
 	},
 	{
 		"abr": "palletwithredbarrels",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletBarrelRed"
 	},
 	{
 		"abr": "palletwithwoodenboxes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletBoxes"
 	},
 	{
 		"abr": "palletwithyellowbarrels",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalletBarrelYellow"
 	},
 	{
 		"abr": "palmtree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PalmTree"
 	},
 	{
 		"abr": "personalconsole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PersonalConsole"
 	},
 	{
 		"abr": "pincushioncactus",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PincushionCactus"
 	},
 	{
 		"abr": "pinetree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PineTree"
 	},
 	{
 		"abr": "planningscreen",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlanningScreen"
 	},
 	{
 		"abr": "planningtable",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlanningTable"
 	},
 	{
 		"abr": "planterbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_PlanterBox"
 	},
 	{
 		"abr": "plasteelatm",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelATM"
 	},
 	{
 		"abr": "plasteelbookshelf",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelBookshelf"
 	},
 	{
 		"abr": "plasteelcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelCupboard"
 	},
 	{
 		"abr": "plasteelcupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelCupboardPlates"
 	},
 	{
 		"abr": "plasteeldivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelDivider"
 	},
 	{
 		"abr": "plasteeldoublecupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelCupboardDouble"
 	},
 	{
 		"abr": "plasteelmirror",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelMirror"
 	},
 	{
 		"abr": "plasteelnarrowcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelCupboardNarrow"
 	},
 	{
 		"abr": "plasteelplankdivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelPlankDivider"
 	},
 	{
 		"abr": "plasteelshortcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelShortCupboard"
 	},
 	{
 		"abr": "plasteelshortcupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelShortCupboardPlates"
 	},
 	{
 		"abr": "plasteeltallcabinet",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelTallCabinet"
 	},
 	{
 		"abr": "plasteelvendingmachine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PlasteelVendingMachine"
 	},
 	{
 		"abr": "playdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordPlay"
 	},
 	{
 		"abr": "poplartree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PoplarTree"
 	},
 	{
 		"abr": "post",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Post"
 	},
 	{
 		"abr": "potatoplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Potato"
 	},
 	{
 		"abr": "powerconverter",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PowerConverter"
 	},
 	{
 		"abr": "powerpole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_PowerPole"
 	},
 	{
 		"abr": "powersign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconPower"
 	},
 	{
 		"abr": "prisondecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordPrison"
 	},
 	{
 		"abr": "prisonsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconPrison"
 	},
 	{
 		"abr": "psychoidplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Psychoid"
 	},
 	{
 		"abr": "rsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolR"
 	},
 	{
 		"abr": "reactordecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordReactor"
 	},
 	{
 		"abr": "recreationdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordRecreation"
 	},
 	{
 		"abr": "redairpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "redAirPipe"
 	},
 	{
 		"abr": "redairpipehidden",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "redAirPipeHidden"
 	},
 	{
 		"abr": "redbarrel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BarrelRed"
 	},
 	{
 		"abr": "redcargocontainer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ContainerRed"
 	},
 	{
 		"abr": "reddeliverytruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarDeliveryRed"
 	},
 	{
 		"abr": "redfamilycar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarFamilyRed"
 	},
 	{
 		"abr": "redfloorsignarrow",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Lighting_RedFloorLampArrow"
 	},
 	{
 		"abr": "redfloorsignx",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Lighting_FloorLampX"
 	},
 	{
 		"abr": "redgunship",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_AlbatrossRed"
 	},
 	{
 		"abr": "redpickuptruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarPickupRed"
 	},
 	{
 		"abr": "redskip",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SkipRed"
 	},
 	{
 		"abr": "redvintagecar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarVintageRed"
 	},
 	{
 		"abr": "refinerydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordRefinery"
 	},
 	{
 		"abr": "relaxdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordRelax"
 	},
 	{
 		"abr": "researchdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordResearch"
 	},
 	{
 		"abr": "researchsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconResearch"
 	},
 	{
 		"abr": "riceplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Rice"
 	},
 	{
 		"abr": "rightturnroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailRight"
 	},
 	{
 		"abr": "rockrubble",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthRubbleRock"
 	},
 	{
 		"abr": "roomdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallRoom"
 	},
 	{
 		"abr": "rose",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Rose"
 	},
 	{
 		"abr": "rotor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Rotor"
 	},
 	{
 		"abr": "ssymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolS"
 	},
 	{
 		"abr": "saguarocactus",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SaguaroCactus"
 	},
 	{
 		"abr": "saloondoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DoorSaloon"
 	},
 	{
 		"abr": "sand",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthSand"
 	},
 	{
 		"abr": "scatteredsandbags",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthRubbleSandbags"
 	},
 	{
 		"abr": "scatteredslag",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthRubbleSlag"
 	},
 	{
 		"abr": "securitydecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSecurity"
 	},
 	{
 		"abr": "sensorplatform",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SensorPlatform"
 	},
 	{
 		"abr": "serverrack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ServerRack"
 	},
 	{
 		"abr": "shippingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordShipping"
 	},
 	{
 		"abr": "shortgrass",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_GrassShort"
 	},
 	{
 		"abr": "silveratm",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverATM"
 	},
 	{
 		"abr": "silverbookshelf",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverBookshelf"
 	},
 	{
 		"abr": "silvercupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverCupboard"
 	},
 	{
 		"abr": "silvercupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverCupboardPlates"
 	},
 	{
 		"abr": "silverdeliverytruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarDeliverySilver"
 	},
 	{
 		"abr": "silverdivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverDivider"
 	},
 	{
 		"abr": "silverdoublecupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverCupboardDouble"
 	},
 	{
 		"abr": "silverfamilycar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarFamilySilver"
 	},
 	{
 		"abr": "silvergunship",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_AlbatrossSilver"
 	},
 	{
 		"abr": "silvermirror",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverMirror"
 	},
 	{
 		"abr": "silvernarrowcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverCupboardNarrow"
 	},
 	{
 		"abr": "silverpickuptruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarPickupSilver"
 	},
 	{
 		"abr": "silverplankdivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverPlankDivider"
 	},
 	{
 		"abr": "silvershortcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverShortCupboard"
 	},
 	{
 		"abr": "silvershortcupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverShortCupboardPlates"
 	},
 	{
 		"abr": "silverskip",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SkipSilver"
 	},
 	{
 		"abr": "silvertallcabinet",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverTallCabinet"
 	},
 	{
 		"abr": "silvervendingmachine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SilverVendingMachine"
 	},
 	{
 		"abr": "silvervintagecar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarVintageSilver"
 	},
 	{
 		"abr": "skullsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconSkull"
 	},
 	{
 		"abr": "sleepingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSleeping"
 	},
 	{
 		"abr": "slime",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthSlime"
 	},
 	{
 		"abr": "smallcardboardbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CardboardBoxSmall"
 	},
 	{
 		"abr": "smallexhaust",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SmallExhaust"
 	},
 	{
 		"abr": "smallgeneratorunit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_GeneratorUnitSmall"
 	},
 	{
 		"abr": "smallhaybale",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_HayBaleSmall"
 	},
 	{
 		"abr": "smallnatureshrine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "NatureShrine_Small"
 	},
 	{
 		"abr": "smallwoodenbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BoxSmall"
 	},
 	{
 		"abr": "smeltingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmelting"
 	},
 	{
 		"abr": "smokeleafplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Smokeleaf"
 	},
 	{
 		"abr": "spacercontainer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SpacerContainer"
 	},
 	{
 		"abr": "spacercontainerlarge",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SpacerContainerLarge"
 	},
 	{
 		"abr": "spacercontainerstack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SpacerContainerStack"
 	},
 	{
 		"abr": "spearsweaponrack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WeaponRackSpears"
 	},
 	{
 		"abr": "spices",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Spices"
 	},
 	{
 		"abr": "splitterroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailSplitter"
 	},
 	{
 		"abr": "sprinkler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CultivatorTools_Sprinkler"
 	},
 	{
 		"abr": "stackofpipes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Pipes"
 	},
 	{
 		"abr": "stackofplanks",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Planks"
 	},
 	{
 		"abr": "steelatm",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelATM"
 	},
 	{
 		"abr": "steelbookshelf",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelBookshelf"
 	},
 	{
 		"abr": "steelcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelCupboard"
 	},
 	{
 		"abr": "steelcupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelCupboardPlates"
 	},
 	{
 		"abr": "steeldivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelDivider"
 	},
 	{
 		"abr": "steeldoublecupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelCupboardDouble"
 	},
 	{
 		"abr": "steelmirror",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelMirror"
 	},
 	{
 		"abr": "steelnarrowcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelCupboardNarrow"
 	},
 	{
 		"abr": "steelplankdivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelPlankDivider"
 	},
 	{
 		"abr": "steelshortcupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelShortCupboard"
 	},
 	{
 		"abr": "steelshortcupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelShortCupboardPlates"
 	},
 	{
 		"abr": "steeltallcabinet",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelTallCabinet"
 	},
 	{
 		"abr": "steelvendingmachine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SteelVendingMachine"
 	},
 	{
 		"abr": "stewpot",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VCE_StewPot"
 	},
 	{
 		"abr": "storagedecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordStorage"
 	},
 	{
 		"abr": "straightroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailStraight"
 	},
 	{
 		"abr": "strawberryplant",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Strawberry"
 	},
 	{
 		"abr": "subterraneangaspipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VPE_GasPipeSub"
 	},
 	{
 		"abr": "superpod",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_Superpod"
 	},
 	{
 		"abr": "switchpanel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SwitchPanel"
 	},
 	{
 		"abr": "swordweaponrack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WeaponRackSwords"
 	},
 	{
 		"abr": "tsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolT"
 	},
 	{
 		"abr": "tanningrack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_TanningRack"
 	},
 	{
 		"abr": "teaktree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_TeakTree"
 	},
 	{
 		"abr": "tidalgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_TidalGenerator"
 	},
 	{
 		"abr": "tilableartificialecosystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Ecosystem_Tilable"
 	},
 	{
 		"abr": "tilablehydroponicsbasin",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Hydroponics_Tilable"
 	},
 	{
 		"abr": "tilableplanterbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_PlanterBox_Tilable"
 	},
 	{
 		"abr": "toxicsign",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PRF_IconToxic"
 	},
 	{
 		"abr": "toxicwastebarrel",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_ToxicWasteBarrel"
 	},
 	{
 		"abr": "trash",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthTrash"
 	},
 	{
 		"abr": "tripledisplaydashboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_TripleDisplay"
 	},
 	{
 		"abr": "usymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolU"
 	},
 	{
@@ -13995,181 +13995,181 @@
 	{
 		"abr": "undergroundrollerinput",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailUndergroundInput"
 	},
 	{
 		"abr": "undergroundrolleroutput",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailUndergroundOutput"
 	},
 	{
 		"abr": "ventilationshaft",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_VentilationShaft"
 	},
 	{
 		"abr": "vomit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_FilthVomit"
 	},
 	{
 		"abr": "wsymbol",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalSymbolW"
 	},
 	{
 		"abr": "warehouseshelf",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WarehouseShelfEmpty"
 	},
 	{
 		"abr": "warehouseshelfwithboxes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WarehouseShelfBoxes"
 	},
 	{
 		"abr": "warningdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordWarning"
 	},
 	{
 		"abr": "washingmachine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WashingMachine"
 	},
 	{
 		"abr": "waterbucket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_BucketwithWater"
 	},
 	{
 		"abr": "waterdispenser",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WaterDispenser"
 	},
 	{
 		"abr": "watertank",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WaterTank"
 	},
 	{
 		"abr": "whitedeliverytruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarDeliveryWhite"
 	},
 	{
 		"abr": "whitefamilycar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarFamilyWhite"
 	},
 	{
 		"abr": "whitegunship",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_AlbatrossWhite"
 	},
 	{
 		"abr": "whitepickuptruck",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarPickupWhite"
 	},
 	{
 		"abr": "whiteskip",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_SkipWhite"
 	},
 	{
 		"abr": "whitevintagecar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_CarVintageWhite"
 	},
 	{
 		"abr": "willowtree",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WillowTree"
 	},
 	{
 		"abr": "windmill",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Windmill"
 	},
 	{
 		"abr": "winerack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WineRack"
 	},
 	{
 		"abr": "wingdecal",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_DecalWordSmallWing"
 	},
 	{
 		"abr": "woodenatm",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenATM"
 	},
 	{
 		"abr": "woodenbookshelf",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenBookshelf"
 	},
 	{
 		"abr": "woodenchest",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenChest"
 	},
 	{
 		"abr": "woodencupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenCupboard"
 	},
 	{
 		"abr": "woodencupboardwithplates",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenCupboardPlates"
 	},
 	{
 		"abr": "woodendivider",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenDivider"
 	},
 	{
 		"abr": "woodendoublecupboard",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenCupboardDouble"
 	},
 	{
 		"abr": "woodenlogs",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEPD_WoodenLogs"
 	},
 	{
@@ -14247,43 +14247,43 @@
 	{
 		"abr": "gastrap(acid)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrapAcid"
 	},
 	{
 		"abr": "gastrap(fear)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrapFearGas"
 	},
 	{
 		"abr": "gastrap(mechvirus)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrapMechanoidVirus"
 	},
 	{
 		"abr": "gastrap(rage)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrapRage"
 	},
 	{
 		"abr": "gastrap(sleep)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrapSleepGas"
 	},
 	{
 		"abr": "gastrap(teargas)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrapTearGas"
 	},
 	{
 		"abr": "gastrap(toxic)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GasTrap"
 	},
 	{
@@ -16298,38 +16298,38 @@
 	},
 	{
 		"abr": "advancedarchomatter©powercell",
-		"price": 46992,
+		"price": -10,
 		"category": "SoS2Ext. Building",
 		"defname": "StableShipCell"
 	},
 	{
 		"abr": "advancedheatsink",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHeatsinkAdv"
 	},
 	{
 		"abr": "advancedshieldgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipCombatShieldGeneratorADV"
 	},
 	{
 		"abr": "ancientjohnson-tanakadrive",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "JTDriveSalvage"
 	},
 	{
 		"abr": "archoalgaefarm",
-		"price": 2500,
+		"price": -10,
 		"category": "SoS2Ext. Building",
 		"defname": "ArchoAlgaeFarm"
 	},
 	{
 		"abr": "archogenetichive(thebuild-a-bug)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BioHive"
 	},
 	{
@@ -16341,7 +16341,7 @@
 	{
 		"abr": "archomatter©reactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ArchomatterReactor"
 	},
 	{
@@ -16353,49 +16353,49 @@
 	{
 		"abr": "archotechpillar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipArchotechPillarA"
 	},
 	{
 		"abr": "archotechpillar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipArchotechPillarB"
 	},
 	{
 		"abr": "archotechpillar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipArchotechPillarC"
 	},
 	{
 		"abr": "archotechpillar",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipArchotechPillarD"
 	},
 	{
 		"abr": "archotechspore",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipArchotechSpore"
 	},
 	{
 		"abr": "archotechsubzerocooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SubzeroCooler"
 	},
 	{
 		"abr": "archotech©borealis",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Borealis"
 	},
 	{
 		"abr": "archotech©daegon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Daegon"
 	},
 	{
@@ -16407,223 +16407,223 @@
 	{
 		"abr": "bioturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AS_ShipTurret_Bio"
 	},
 	{
 		"abr": "capacitorarray",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipCapacitor"
 	},
 	{
 		"abr": "capitalheatcore",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHeatsinkCapital"
 	},
 	{
 		"abr": "capitaltorpedolauncher(20)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ArchoTorpedoLauncher"
 	},
 	{
 		"abr": "crittersleepcaskets(32)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CrittersleepCasketLarge"
 	},
 	{
 		"abr": "crittersleepcaskets(8)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CrittersleepCasket"
 	},
 	{
 		"abr": "cryptonest",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cryptonest"
 	},
 	{
 		"abr": "cybernetichive(thebuild-a-bot)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CyberneticHive"
 	},
 	{
 		"abr": "damagedairlock",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipAirlockWrecked"
 	},
 	{
 		"abr": "hardpoint",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHardpoint"
 	},
 	{
 		"abr": "heatsink",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHeatsink"
 	},
 	{
 		"abr": "heavyairlock",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipAirlockHeavy"
 	},
 	{
 		"abr": "heavyshiphull(powered)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Beam_HeavyPow"
 	},
 	{
 		"abr": "heavyshiphull(unpowered)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Beam_Heavy"
 	},
 	{
 		"abr": "hullcorner(1x1)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneOne_Mech"
 	},
 	{
 		"abr": "hullcorner(1x1)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneOne"
 	},
 	{
 		"abr": "hullcorner(1x1)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneOneCustom"
 	},
 	{
 		"abr": "hullcorner(1x1)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneOneMechCustom"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwo_Mech"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwoFlip_Mech"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwo"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwoFlip"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwoCustom"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwoMechCustom"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwoFlipCustom"
 	},
 	{
 		"abr": "hullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneTwoFlipMechCustom"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThree_Mech"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThreeFlip_Mech"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThree"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThreeFlip"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThreeCustom"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThreeMechCustom"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThreeFlipCustom"
 	},
 	{
 		"abr": "hullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Corner_OneThreeFlipMechCustom"
 	},
 	{
 		"abr": "hullplating",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHullTile"
 	},
 	{
 		"abr": "hullwreckage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHullTileWrecked"
 	},
 	{
 		"abr": "hullwreckage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHullTileWreckedFake"
 	},
 	{
@@ -16635,217 +16635,217 @@
 	{
 		"abr": "johnson-tanakadrive",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine_Interplanetary"
 	},
 	{
 		"abr": "largearchotechengine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "EngineArchoLarge"
 	},
 	{
 		"abr": "largehardpoint",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHardpointExtraMedium"
 	},
 	{
 		"abr": "largelaserturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_Laser_Large"
 	},
 	{
 		"abr": "largeplasmaturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_Plasma_Large"
 	},
 	{
 		"abr": "largerailgunturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_Kinetic_Large"
 	},
 	{
 		"abr": "laserturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_Laser"
 	},
 	{
 		"abr": "lifesupportsystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_LifeSupport"
 	},
 	{
 		"abr": "machinerailgunturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_MachineRail"
 	},
 	{
 		"abr": "meatlab",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MeatLab"
 	},
 	{
 		"abr": "mechanoidhullplating",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHullTileMech"
 	},
 	{
 		"abr": "mechanoidshiphull",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_BeamMech"
 	},
 	{
 		"abr": "mechanoidshiphull",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_BeamMechCustom"
 	},
 	{
 		"abr": "mechanoidshipradiator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipInside_MechPassiveCoolerCustom"
 	},
 	{
 		"abr": "mechanoidsolargenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipInside_MechSolarGeneratorCustom"
 	},
 	{
 		"abr": "nanotechheatsink",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHeatsinkMini"
 	},
 	{
 		"abr": "nanotechshieldgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MiniShield"
 	},
 	{
 		"abr": "nanotech©archotechreactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ArchoReactor"
 	},
 	{
 		"abr": "nanotech©chemreactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ReactorMini"
 	},
 	{
 		"abr": "nanotech©depleterturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_DepleterMini"
 	},
 	{
 		"abr": "nanotech©harasserturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_HarasserMini"
 	},
 	{
 		"abr": "nanotech©humiditybio-storage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_LifeSupportMini"
 	},
 	{
 		"abr": "nanotech©machinerailgunturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_MachineRailMini"
 	},
 	{
 		"abr": "nanotech©neuronturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_NeuronMini"
 	},
 	{
 		"abr": "nanotech©starburstcannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurretStarburstMini"
 	},
 	{
 		"abr": "plasmaturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_Plasma"
 	},
 	{
 		"abr": "railgunturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipTurret_Kinetic"
 	},
 	{
 		"abr": "salvagebay",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipSalvageBay"
 	},
 	{
 		"abr": "shieldgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipCombatShieldGenerator"
 	},
 	{
 		"abr": "shieldhullcorner(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldHullCorneronetwo"
 	},
 	{
 		"abr": "shieldhullcorner(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldHullCorneronethree"
 	},
 	{
 		"abr": "shieldhullcornerflipped(1x3)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldHullCorneronethreeFlip"
 	},
 	{
 		"abr": "shieldedairlock",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipAirlockShield"
 	},
 	{
 		"abr": "shieldedhullcorner(1x1)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldHullCorneroneone"
 	},
 	{
 		"abr": "shieldedhullcornerflipped(1x2)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldHullCorneronetwoFlip"
 	},
 	{
 		"abr": "shipairlock",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipAirlock"
 	},
 	{
@@ -16856,7 +16856,7 @@
 	},
 	{
 		"abr": "advancedcybernetaccesspoint",
-		"price": 6400,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "CNCyberNetAdvancedAccessPoint"
 	},
@@ -16940,7 +16940,7 @@
 	},
 	{
 		"abr": "ascendedarchomatter©combiner",
-		"price": 2500,
+		"price": -10,
 		"category": "SoS2Ext. Building",
 		"defname": "AscendedArchoGenerator"
 	},
@@ -16982,7 +16982,7 @@
 	},
 	{
 		"abr": "ascendedarchotechworkbench",
-		"price": 418933,
+		"price": -10,
 		"category": "Production",
 		"defname": "AscendedArchotechWorkbench"
 	},
@@ -17036,7 +17036,7 @@
 	},
 	{
 		"abr": "basiccybernetaccesspoint",
-		"price": 298,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "CNCyberNetBasicAccessPoint"
 	},
@@ -17099,7 +17099,1699 @@
 		"price": 1833,
 		"category": "Mind",
 		"defname": "ANN_Brainwash"
+	},
+	{
+		"abr": "brownbarrelcactus",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawBrownBarrelCactus"
+	},
+	{
+		"abr": "bumbledronejelly",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_BumbledroneFood"
+	},
+	{
+		"abr": "butcher'snails",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_Nails"
+	},
+	{
+		"abr": "butterfly",
+		"price": 333,
+		"category": "Animal",
+		"defname": "PoisonButterfly"
+	},
+	{
+		"abr": "butterflyegg(fert.)",
+		"price": -10,
+		"category": "Eggs (fert.)",
+		"defname": "EggButterflyFertilized"
+	},
+	{
+		"abr": "calcium-alloyribcage",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Ribcage"
+	},
+	{
+		"abr": "combatai",
+		"price": 8125,
+		"category": "Cyborg",
+		"defname": "ANN_CombatAI"
+	},
+	{
+		"abr": "combatoptimizationimplant",
+		"price": 2192,
+		"category": "Networked Prosthetics",
+		"defname": "CNCombatOptimizationImplant"
+	},
+	{
+		"abr": "combatserumgland",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Combat"
+	},
+	{
+		"abr": "comfortnse",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNComfortNSE"
+	},
+	{
+		"abr": "compressionjaw",
+		"price": 2875,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionJaw"
+	},
+	{
+		"abr": "compressionstomach",
+		"price": 3333,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionStomach"
+	},
+	{
+		"abr": "consciousnessenhancementimplant",
+		"price": 3150,
+		"category": "Networked Prosthetics",
+		"defname": "CNConsciousnessEnhancementImplant"
+	},
+	{
+		"abr": "cordaxresin",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "AB_CordaxResin"
+	},
+	{
+		"abr": "coresampledrill",
+		"price": -10,
+		"category": "Production",
+		"defname": "AB_CoreSampleDrill"
+	},
+	{
+		"abr": "cow",
+		"price": 583,
+		"category": "Animal",
+		"defname": "MutantCow"
+	},
+	{
+		"abr": "cragstoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "AB_BlocksCragstone"
+	},
+	{
+		"abr": "cranialplating",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skull_Plating"
+	},
+	{
+		"abr": "crystalhorn",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_RawCrystalHorn"
+	},
+	{
+		"abr": "crystallinematrix",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "AB_CrystallineMatrix"
+	},
+	{
+		"abr": "crystallinewood",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "AB_CrystalWood"
+	},
+	{
+		"abr": "cyclopsvisor",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_CyclopsVisor"
+	},
+	{
+		"abr": "deer",
+		"price": 333,
+		"category": "Animal",
+		"defname": "PoisonDeer"
+	},
+	{
+		"abr": "dermalplating",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Dermalplating"
+	},
+	{
+		"abr": "diamond",
+		"price": 167,
+		"category": "Gems",
+		"defname": "Diamond"
+	},
+	{
+		"abr": "distendablejaw",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Jaw_Distend"
+	},
+	{
+		"abr": "dribblingcappoisondart",
+		"price": 7,
+		"category": "Grenades",
+		"defname": "AB_WeaponPoisonDart"
+	},
+	{
+		"abr": "duskysprat",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_DuskySprat"
+	},
+	{
+		"abr": "earring",
+		"price": 267,
+		"category": "Apparel",
+		"defname": "Jewelry_Earring"
+	},
+	{
+		"abr": "elasticachilles",
+		"price": 1583,
+		"category": "Cyborg",
+		"defname": "ANN_ElasticAchilles"
+	},
+	{
+		"abr": "emerald",
+		"price": 83,
+		"category": "Gems",
+		"defname": "Emerald"
+	},
+	{
+		"abr": "energetickidney",
+		"price": 2083,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticKidney"
+	},
+	{
+		"abr": "energeticlung",
+		"price": 2083,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticLung"
+	},
+	{
+		"abr": "energycore",
+		"price": 7875,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyCore"
+	},
+	{
+		"abr": "energyfist",
+		"price": 7292,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyFist"
+	},
+	{
+		"abr": "energylink",
+		"price": 7792,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyLink"
+	},
+	{
+		"abr": "energymaxbloodreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNEnergyMaxBloodReplacement"
+	},
+	{
+		"abr": "exoskeletonarmor",
+		"price": 6458,
+		"category": "Cyborg",
+		"defname": "ANN_Exoskeleton"
+	},
+	{
+		"abr": "exoticsmelter(ocularforest)",
+		"price": -10,
+		"category": "Production",
+		"defname": "AB_ExoticSmelterOcular"
+	},
+	{
+		"abr": "exoticsmelter(propanelakes)",
+		"price": -10,
+		"category": "Production",
+		"defname": "AB_ExoticSmelterPropane"
+	},
+	{
+		"abr": "exoticsmelter(tarpits)",
+		"price": -10,
+		"category": "Production",
+		"defname": "AB_ExoticSmelterTar"
+	},
+	{
+		"abr": "extranano-filterlung",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_ThirdLung"
+	},
+	{
+		"abr": "extradextrousarm",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_NormalArm"
+	},
+	{
+		"abr": "featheredwings",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_Wing"
+	},
+	{
+		"abr": "filtrationbloodenhancement",
+		"price": 742,
+		"category": "Networked Prosthetics",
+		"defname": "CNFiltrationBloodEnhancement"
+	},
+	{
+		"abr": "flameretardantskin",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skin_Flame"
+	},
+	{
+		"abr": "flashlight",
+		"price": 1083,
+		"category": "Cyborg",
+		"defname": "ANN_FlashLight"
+	},
+	{
+		"abr": "forsakenanglerfish",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_ForsakenAnglerfish"
+	},
+	{
+		"abr": "frigidswimmer",
+		"price": 7,
+		"category": "Alien raw fish",
+		"defname": "VCEF_FrigidSwimmer"
+	},
+	{
+		"abr": "frostleaf",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "AB_RawFrostLeaf"
+	},
+	{
+		"abr": "giantpolarprawn",
+		"price": 3,
+		"category": "Alien raw fish",
+		"defname": "VCEF_GiantPolarPrawn"
+	},
+	{
+		"abr": "graspingleg",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Leg_Hand"
+	},
+	{
+		"abr": "greenthumb",
+		"price": 2250,
+		"category": "Cyborg",
+		"defname": "ANN_Greenthumb"
+	},
+	{
+		"abr": "habdaklongfin",
+		"price": 17,
+		"category": "Alien raw fish",
+		"defname": "VCEF_HabdakLongfin"
+	},
+	{
+		"abr": "highpressurepincer",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_HighPincer"
+	},
+	{
+		"abr": "hormoneregulator",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Hormone"
+	},
+	{
+		"abr": "hoverfeet",
+		"price": 4583,
+		"category": "Cyborg",
+		"defname": "ANN_HoverFeet"
+	},
+	{
+		"abr": "hyperclotbloodreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNHyperClotBloodReplacement"
+	},
+	{
+		"abr": "iashiphusfruit",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawIashiphus"
+	},
+	{
+		"abr": "iedtartrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "AB_TrapIED_Tar"
+	},
+	{
+		"abr": "improvedcybernetaccesspoint",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "CNCyberNetImprovedAccessPoint"
+	},
+	{
+		"abr": "independenteye",
+		"price": 3167,
+		"category": "Cyborg",
+		"defname": "ANN_IndependentEye"
+	},
+	{
+		"abr": "interferenceshielding",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skull_Shielding"
+	},
+	{
+		"abr": "jellyfungus",
+		"price": 3,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Jellyfungus"
+	},
+	{
+		"abr": "lapislazuli",
+		"price": 8,
+		"category": "Gems",
+		"defname": "LapisLazuli"
+	},
+	{
+		"abr": "laserdetection",
+		"price": 1458,
+		"category": "Cyborg",
+		"defname": "ANN_LaserDetection"
+	},
+	{
+		"abr": "lasersculptingtable",
+		"price": -10,
+		"category": "Production",
+		"defname": "LaserTableSculpting"
+	},
+	{
+		"abr": "lionheart",
+		"price": 10250,
+		"category": "Cyborg",
+		"defname": "ANN_Lionheart"
+	},
+	{
+		"abr": "lymphaticproliferator",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Lymph"
+	},
+	{
+		"abr": "manipulatortail",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Tail_Hand"
+	},
+	{
+		"abr": "mecha-tentacle",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "MechaTentacleME"
+	},
+	{
+		"abr": "memoryenhancementimplant",
+		"price": 2192,
+		"category": "Networked Prosthetics",
+		"defname": "CNMemoryEnhancementImplant"
+	},
+	{
+		"abr": "metabolicbloodenhancement",
+		"price": 742,
+		"category": "Networked Prosthetics",
+		"defname": "CNMetabolicBloodEnhancement"
+	},
+	{
+		"abr": "micro-analyzernose",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Nose"
+	},
+	{
+		"abr": "mindclearer",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_MindClearer"
+	},
+	{
+		"abr": "mindtwist",
+		"price": 1375,
+		"category": "Cyborg",
+		"defname": "ANN_Mindtwist"
+	},
+	{
+		"abr": "moonstone",
+		"price": 8,
+		"category": "Gems",
+		"defname": "Moonstone"
+	},
+	{
+		"abr": "mudsplashercarp",
+		"price": 3,
+		"category": "Alien raw fish",
+		"defname": "VCEF_MudSplasherCarp"
+	},
+	{
+		"abr": "mudstoneblocks",
+		"price": 1,
+		"category": "Stone blocks",
+		"defname": "AB_BlocksMudstone"
+	},
+	{
+		"abr": "multichamberstomach",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Stomach"
+	},
+	{
+		"abr": "multifrequencyear",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Ear"
+	},
+	{
+		"abr": "multilayereddermalplating",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skin_Plating"
+	},
+	{
+		"abr": "multispectrumeye",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Eye"
+	},
+	{
+		"abr": "musclewire",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_Musclewire"
+	},
+	{
+		"abr": "musculaturebraces",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_Muscle"
+	},
+	{
+		"abr": "musechip",
+		"price": 6458,
+		"category": "Cyborg",
+		"defname": "ANN_MuseChip"
+	},
+	{
+		"abr": "mushroomstalks",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "AB_MushroomWoodLog"
+	},
+	{
+		"abr": "mutantflatfish",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_MutantFlatfish"
+	},
+	{
+		"abr": "nanokit",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "ArchoNanoKit"
+	},
+	{
+		"abr": "nanomechanites",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "EVOR_Resource_Mechanites"
+	},
+	{
+		"abr": "nano-alveolilung",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Lung"
+	},
+	{
+		"abr": "necklace",
+		"price": 600,
+		"category": "Apparel",
+		"defname": "Jewelry_Necklace"
+	},
+	{
+		"abr": "networkedarm",
+		"price": 667,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedArm"
+	},
+	{
+		"abr": "networkedear",
+		"price": 667,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedEar"
+	},
+	{
+		"abr": "networkedeye",
+		"price": 650,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedEye"
+	},
+	{
+		"abr": "networkedheart",
+		"price": 667,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedHeart"
+	},
+	{
+		"abr": "networkedleg",
+		"price": 667,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedLeg"
+	},
+	{
+		"abr": "networkedspine",
+		"price": 667,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedSpine"
+	},
+	{
+		"abr": "networkedstomach",
+		"price": 667,
+		"category": "Networked Prosthetics",
+		"defname": "CNNetworkedStomach"
+	},
+	{
+		"abr": "neuralhyperthreader",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_Hyper"
+	},
+	{
+		"abr": "neuroenhancer",
+		"price": 2000,
+		"category": "Cyborg",
+		"defname": "ANN_NeuroEnhancer"
+	},
+	{
+		"abr": "neuro-acceleratedspine",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Spine"
+	},
+	{
+		"abr": "neuromodbooster",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_NeuromodBooster"
+	},
+	{
+		"abr": "obsidianblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "AB_BlocksObsidian"
+	},
+	{
+		"abr": "ocularfish",
+		"price": 4,
+		"category": "Alien raw fish",
+		"defname": "VCEF_OcularFish"
+	},
+	{
+		"abr": "oculargasspewer",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_OcularGasSpewer"
+	},
+	{
+		"abr": "opal",
+		"price": 17,
+		"category": "Gems",
+		"defname": "Opal"
+	},
+	{
+		"abr": "ossifiedbonesaber",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_BoneSaber"
+	},
+	{
+		"abr": "outerblade",
+		"price": 7292,
+		"category": "Cyborg",
+		"defname": "ANN_OuterBlade"
+	},
+	{
+		"abr": "packetrouter",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "CNPacketRouter"
+	},
+	{
+		"abr": "passiongiver",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_PassionGiver"
+	},
+	{
+		"abr": "peridot",
+		"price": 42,
+		"category": "Gems",
+		"defname": "Peridot"
+	},
+	{
+		"abr": "phasedsleepimplant",
+		"price": 2192,
+		"category": "Networked Prosthetics",
+		"defname": "CNPhasedSleepImplant"
+	},
+	{
+		"abr": "pheromonereleasernose",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Nose_Pheromones"
+	},
+	{
+		"abr": "pinkblobfish",
+		"price": 1,
+		"category": "Alien raw fish",
+		"defname": "VCEF_PinkBlobfish"
+	},
+	{
+		"abr": "pinkfungus",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_PinkRawFungus"
+	},
+	{
+		"abr": "plaguelesions",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Artifact_Lesions"
+	},
+	{
+		"abr": "powerarms",
+		"price": 7917,
+		"category": "Cyborg",
+		"defname": "ANN_PowerArms"
+	},
+	{
+		"abr": "processedresin",
+		"price": 75,
+		"category": "Raw resources",
+		"defname": "AB_ProcessedResin"
+	},
+	{
+		"abr": "propanebag",
+		"price": -10,
+		"category": "Alien raw fish",
+		"defname": "VCEF_PropaneBag"
+	},
+	{
+		"abr": "propanefueltank",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "AB_Propane"
+	},
+	{
+		"abr": "propaneheater",
+		"price": -10,
+		"category": "Temperature",
+		"defname": "AB_PropaneHeater"
+	},
+	{
+		"abr": "propanestove",
+		"price": -10,
+		"category": "Production",
+		"defname": "AB_PropaneStove"
+	},
+	{
+		"abr": "psychicresonancetissue",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skull_Resonance"
+	},
+	{
+		"abr": "psychotropicfungus",
+		"price": 3,
+		"category": "Drugs",
+		"defname": "AB_PsychotropicFungus"
+	},
+	{
+		"abr": "psyfocusnecklace",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Jewelry_PsychicNecklace"
+	},
+	{
+		"abr": "purplefungus",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_PurpleRawFungus"
+	},
+	{
+		"abr": "quadlobeliver",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Liver"
+	},
+	{
+		"abr": "quartz",
+		"price": 25,
+		"category": "Gems",
+		"defname": "Quartz"
+	},
+	{
+		"abr": "radiationsuppressor",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Rad"
+	},
+	{
+		"abr": "ra'svacoule",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_NoAge"
+	},
+	{
+		"abr": "rat",
+		"price": 100,
+		"category": "Animal",
+		"defname": "PoisonRat"
+	},
+	{
+		"abr": "ratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_PoisonRat"
+	},
+	{
+		"abr": "rawrimenodules",
+		"price": 2,
+		"category": "Drugs",
+		"defname": "AB_RawRimeNodules"
+	},
+	{
+		"abr": "reactiveshimmerworms",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Artifact_Royalty_ReactiveWorms"
+	},
+	{
+		"abr": "reconditioner",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Reconditioner"
+	},
+	{
+		"abr": "reflexnse",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNReflexNSE"
+	},
+	{
+		"abr": "reinforcedleg",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Leg_Normal"
+	},
+	{
+		"abr": "reinforcedtortoiseshell",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Artifact_Tortoise"
+	},
+	{
+		"abr": "rendingclaws",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_RendingClaw"
+	},
+	{
+		"abr": "rhinohideskinreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNRhinoHideSkinReplacement"
+	},
+	{
+		"abr": "ring",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "Jewelry_Ring"
+	},
+	{
+		"abr": "rosequartzblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "GU_BlocksRoseQuartz"
+	},
+	{
+		"abr": "ruby",
+		"price": 83,
+		"category": "Gems",
+		"defname": "Ruby"
+	},
+	{
+		"abr": "sapphire",
+		"price": 83,
+		"category": "Gems",
+		"defname": "Sapphire"
+	},
+	{
+		"abr": "sensoricearside",
+		"price": 1833,
+		"category": "Cyborg",
+		"defname": "ANN_SensoricEarside"
+	},
+	{
+		"abr": "serratedstingertail",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Tail_Blade"
+	},
+	{
+		"abr": "shadowfry",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_ShadowFry"
+	},
+	{
+		"abr": "shadowrunner",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_Shadowrunner"
+	},
+	{
+		"abr": "shocktouchskinreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNShockTouchSkinReplacement"
+	},
+	{
+		"abr": "silk",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Silk"
+	},
+	{
+		"abr": "slime",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawSlime"
+	},
+	{
+		"abr": "slimemeal",
+		"price": 17,
+		"category": "Meals",
+		"defname": "AB_SlimeMeal"
+	},
+	{
+		"abr": "slimefish",
+		"price": 25,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Slimefish"
+	},
+	{
+		"abr": "socialanalyzerimplant",
+		"price": 2192,
+		"category": "Networked Prosthetics",
+		"defname": "CNSocialAnalyzerImplant"
+	},
+	{
+		"abr": "sonicimpactmace",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_SonicMace"
+	},
+	{
+		"abr": "sootheauraskinreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNSootheAuraSkinReplacement"
+	},
+	{
+		"abr": "speednse",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNSpeedNSE"
+	},
+	{
+		"abr": "spiderfish",
+		"price": 4,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Spiderfish"
+	},
+	{
+		"abr": "spinyfish",
+		"price": 7,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Spinyfish"
+	},
+	{
+		"abr": "sturgeon",
+		"price": 7,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Sturgeon"
+	},
+	{
+		"abr": "sugarfamewort",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_RawSugarFamewort"
+	},
+	{
+		"abr": "synchronizer",
+		"price": 1958,
+		"category": "Cyborg",
+		"defname": "ANN_Synchronizer"
+	},
+	{
+		"abr": "synthbloodbloodreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNSynthBloodBloodReplacement"
+	},
+	{
+		"abr": "tamingartifact",
+		"price": 2667,
+		"category": "Artifacts",
+		"defname": "TamingArtifact"
+	},
+	{
+		"abr": "tarshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "AB_Shell_Tar"
+	},
+	{
+		"abr": "techprint(engineeredresistantshellplating)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_Tortoise"
+	},
+	{
+		"abr": "techprint(psuedo-invisibilitystudies)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_ShimmerWorm"
+	},
+	{
+		"abr": "techprint(psychicareamoodprofileration)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_NornCrown"
+	},
+	{
+		"abr": "techprint(weaponizedgermengineering)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_Lesions"
+	},
+	{
+		"abr": "tentaclecluster",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_Hand"
+	},
+	{
+		"abr": "tentacularfruit",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawTentacularFruit"
+	},
+	{
+		"abr": "thenorncrown",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Artifact_Royalty_NornCrown"
+	},
+	{
+		"abr": "thermcontrolbloodreplacement",
+		"price": 1483,
+		"category": "Networked Prosthetics",
+		"defname": "CNThermControlBloodReplacement"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "thrumbo",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "Thrumbo"
+	},
+	{
+		"abr": "topaz",
+		"price": 83,
+		"category": "Gems",
+		"defname": "Topaz"
+	},
+	{
+		"abr": "tri-platedlimb",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_PlatedLimb"
+	},
+	{
+		"abr": "triplefilterpasskidney",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Kidney"
+	},
+	{
+		"abr": "triwovenprimaryheart",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Heart"
+	},
+	{
+		"abr": "turquoise",
+		"price": 8,
+		"category": "Gems",
+		"defname": "Turquoise"
+	},
+	{
+		"abr": "unstablearchomatter©powercell",
+		"price": -10,
+		"category": "SoS2Ext. Building",
+		"defname": "UnstableShipCell"
+	},
+	{
+		"abr": "variableinsulationskin",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skin_Insulation"
+	},
+	{
+		"abr": "venison",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_PoisonDeer"
+	},
+	{
+		"abr": "venomousfangs",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Jaw_Venom"
+	},
+	{
+		"abr": "wildmushrooms",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawPoisonMushroom"
+	},
+	{
+		"abr": "zoom",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Zoom"
+	},
+	{
+		"abr": "advancedarchotechshieldgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AdvancedArchoShield"
+	},
+	{
+		"abr": "alcyonitesolargenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_AlcyoniteSolar"
+	},
+	{
+		"abr": "ancientbone",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_AncientBone"
+	},
+	{
+		"abr": "ancientbones",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_AncientVerticalBone"
+	},
+	{
+		"abr": "ancientgallatrossskull",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_AncientGallatrossSkull"
+	},
+	{
+		"abr": "ancientshatteredbone",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_AncientBrokenBone"
+	},
+	{
+		"abr": "archotechmini-shieldgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "MiniArchoShield"
+	},
+	{
+		"abr": "archotech©archlitecanon",
+		"price": 2400100,
+		"category": "Misc",
+		"defname": "Shockwave"
+	},
+	{
+		"abr": "ascendedarchomatter©reactor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AscendedArchomatterReactor"
+	},
+	{
+		"abr": "ascendedshieldgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AscendedShield"
+	},
+	{
+		"abr": "chimera",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mechanoid_Chimera"
+	},
+	{
+		"abr": "daegonturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "DaegonTurret"
+	},
+	{
+		"abr": "exoticautodoor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_ExoticAutoDoor"
+	},
+	{
+		"abr": "exoticcolumn",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_ExoticColumn"
+	},
+	{
+		"abr": "exoticdoor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_ExoticDoor"
+	},
+	{
+		"abr": "exoticwall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_ExoticWall"
+	},
+	{
+		"abr": "gallatrossbones",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_GallatrossBones"
+	},
+	{
+		"abr": "goliath",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mechanoid_Goliath"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestandroidpod",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodGuest"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestm7pod",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodMechGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "hound",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mechanoid_Hound"
+	},
+	{
+		"abr": "hugegallatrossskeleton",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_HugeGallatrossSkeleton"
+	},
+	{
+		"abr": "kraken",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mechanoid_Kraken"
+	},
+	{
+		"abr": "propanepump",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_PropanePump"
+	},
+	{
+		"abr": "shipairlock",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipAirlockCustom"
+	},
+	{
+		"abr": "shiphull",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_BeamCustom"
+	},
+	{
+		"abr": "shipplasteelglasswall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipGlassWall"
+	},
+	{
+		"abr": "shipradiator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCooler"
+	},
+	{
+		"abr": "shipradiator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCoolerCustom"
+	},
+	{
+		"abr": "shipvent",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipVent"
+	},
+	{
+		"abr": "shuttlebay",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipShuttleBay"
+	},
+	{
+		"abr": "slagturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SlagTurret"
+	},
+	{
+		"abr": "smallarchotechengine",
+		"price": 237033,
+		"category": "Misc",
+		"defname": "Ship_Engine_SmallAdv"
+	},
+	{
+		"abr": "smallhardpoint",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipHardpointSmall"
+	},
+	{
+		"abr": "smallrocketengine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_Engine_Small"
+	},
+	{
+		"abr": "smoothedancientmetal",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_SmoothedAncientMetals"
+	},
+	{
+		"abr": "smoothedcragstone",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_SmoothedCragstone"
+	},
+	{
+		"abr": "smoothedmudstone",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_SmoothedMudstone"
+	},
+	{
+		"abr": "smoothedobsidian",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_SmoothedObsidian"
+	},
+	{
+		"abr": "smoothedquartz",
+		"price": -10,
+		"category": "Misc",
+		"defname": "GU_SmoothedQuartz"
+	},
+	{
+		"abr": "smoothedslime",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_SmoothedSlimeStone"
+	},
+	{
+		"abr": "solargenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGenerator"
+	},
+	{
+		"abr": "solargenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGeneratorCustom"
+	},
+	{
+		"abr": "spinalamplifier",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalAmplifier"
+	},
+	{
+		"abr": "spinalbarrel:dominator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelPlasmaAdv"
+	},
+	{
+		"abr": "spinalbarrel:haeloeruptor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalArchobeam"
+	},
+	{
+		"abr": "spinalbarrel:laser",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelLaser"
+	},
+	{
+		"abr": "spinalbarrel:newdawn",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelNewDawn"
+	},
+	{
+		"abr": "spinalbarrel:plasma",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelPlasma"
+	},
+	{
+		"abr": "spinalbarrel:railgun",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelKinetic"
+	},
+	{
+		"abr": "spinalcapacitor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalEmitter"
+	},
+	{
+		"abr": "starburstcannon",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipTurretStarburst"
+	},
+	{
+		"abr": "tarpump",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AB_TarPump"
+	},
+	{
+		"abr": "thermalconduit",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipHeatConduit"
+	},
+	{
+		"abr": "torpedotube",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipTorpedoOne"
+	},
+	{
+		"abr": "torpedotubes(2)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipTorpedoTwo"
+	},
+	{
+		"abr": "torpedotubes(6)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipTorpedoSix"
+	},
+	{
+		"abr": "ultratechheatcore",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipHeatsinkUltra"
+	},
+	{
+		"abr": "vespa",
+		"price": 900,
+		"category": "Animal",
+		"defname": "Mechanoid_Vespa"
+	},
+	{
+		"abr": "woodenmirror",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenMirror"
+	},
+	{
+		"abr": "woodennarrowcupboard",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenCupboardNarrow"
+	},
+	{
+		"abr": "woodenplankdivider",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenPlankDivider"
+	},
+	{
+		"abr": "woodenplatform",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenPlatform"
+	},
+	{
+		"abr": "woodenshortcupboard",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenShortCupboard"
+	},
+	{
+		"abr": "woodenshortcupboardwithplates",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenShortCupboardPlates"
+	},
+	{
+		"abr": "woodensign",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenSign"
+	},
+	{
+		"abr": "woodentallcabinet",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenTallCabinet"
+	},
+	{
+		"abr": "woodenvendingmachine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenVendingMachine"
+	},
+	{
+		"abr": "woodenwagon",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_WoodenWagon"
+	},
+	{
+		"abr": "workshopdecal",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_DecalWordWorkshop"
+	},
+	{
+		"abr": "wreckedhull",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_Beam_Wrecked_Fake"
+	},
+	{
+		"abr": "xsymbol",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_DecalSymbolX"
+	},
+	{
+		"abr": "xlhardpoint",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipHardpointLarge"
+	},
+	{
+		"abr": "ysymbol",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_DecalSymbolY"
+	},
+	{
+		"abr": "yellowbarrel",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_BarrelYellow"
+	},
+	{
+		"abr": "yellowcargocontainer",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_ContainerYellow"
+	},
+	{
+		"abr": "yellowfloorsignarrow",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Lighting_FloorLampArrow"
+	},
+	{
+		"abr": "zsymbol",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_DecalSymbolZ"
+	},
+	{
+		"abr": "zonedecal",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFEPD_DecalWordSmallZone"
 	}
 	],
-	"total": 3039
+	"total": 3132
 }
